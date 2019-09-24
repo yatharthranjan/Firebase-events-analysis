@@ -3,3 +3,6 @@ worker*
 dask-worker*
 __pycache__*
 *.lock
+
+
+*.idea
