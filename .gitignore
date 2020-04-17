@@ -4,5 +4,7 @@ dask-worker*
 __pycache__*
 *.lock
 
-
 *.idea
+
+# Google Credentials file
+radar-armt-notification-c2040a9b15cb.json
