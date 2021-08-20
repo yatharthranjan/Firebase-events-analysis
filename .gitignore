@@ -8,3 +8,11 @@ __pycache__*
 
 # Google Credentials file
 radar-armt-notification-c2040a9b15cb.json
+
+
+.DS_Store
+	
+data
+venv
+venv3.9
+plots
